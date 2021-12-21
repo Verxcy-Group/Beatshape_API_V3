@@ -1,5 +1,5 @@
 # Beatshape API V3
-![bro](nahhv2.png)
+![bro](banner.png)
 
 ## This is The Third (and hopefully last) Version Of The Beatshape API!
 
