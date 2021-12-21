@@ -2,7 +2,7 @@
   "name": "beatshape_api",
   "version": "3.0.0",
   "description": "Third Version Of The Beatshape API",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"no\"",
     "run": "node server.js",
