@@ -1,5 +1,5 @@
 # Beatshape API V3
-![bro](nahhv2.png)
+![bro](https://cdn.bycrxhit.de/assets/beatshape/banner.png)
 
 ## This is The Third (and hopefully last) Version Of The Beatshape API!
 
