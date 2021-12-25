@@ -19,5 +19,5 @@
 (Windows Only!)
 - Open CMD
 - Become Owner Of Hosts File: `takeown /f C:\Windows\System32\Drivers\etc\hosts /r /d y`
-- Open Hosts File (Directory Is: `C:\Windows\System32\Drivers\etc\hosts`
+- Open Hosts File (Directory Is: `C:\Windows\System32\Drivers\etc\hosts`)
 - Add The Following Lines: `api.beyyt.live    <your server ip/url>`
