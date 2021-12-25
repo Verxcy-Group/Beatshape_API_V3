@@ -1,6 +1,6 @@
 {
   "name": "beatshape_api",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "description": "Third Version Of The Beatshape API",
   "main": "index.js",
   "scripts": {
