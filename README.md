@@ -1,5 +1,5 @@
 # Beatshape API V3
-![bro](https://cdn.bycrxhit.de/assets/beatshape/banner.png)
+![bro](https://cdn.bycrxhit.xyz/assets/beatshape/banner.png)
 
 ## This is The Third (and hopefully last) Version Of The Beatshape API!
 
@@ -19,5 +19,5 @@
 (Windows Only!)
 - Open CMD
 - Become Owner Of Hosts File: `takeown /f C:\Windows\System32\Drivers\etc\hosts /r /d y`
-- Open Hosts File (Directory Is: `C:\Windows\System32\Drivers\etc\hosts`
-- Add The Following Lines: `api.beyyt.live    <your server ip/url>`
+- Open Hosts File (Directory Is: `C:\Windows\System32\Drivers\etc\hosts`)
+- Add The Following Lines: `api.beyyt.live <your server ip/url>`
